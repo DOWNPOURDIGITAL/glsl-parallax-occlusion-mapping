@@ -1,0 +1,14 @@
+UseTab: ForContinuationAndIndentation
+TabWidth: 4
+IndentWidth: 4
+SpacesInParentheses: true
+SpaceBeforeRangeBasedForLoopColon: false
+SpaceBeforeParens: Never
+AlignOperands: true
+AllowAllParametersOfDeclarationOnNextLine: true
+BinPackArguments: false
+BinPackParameters: false
+BreakBeforeBraces: Attach
+BreakBeforeTernaryOperators: true
+
+CommentPragmas: '^pragma '

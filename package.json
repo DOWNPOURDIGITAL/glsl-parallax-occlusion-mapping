@@ -1,0 +1,32 @@
+{
+  "name": "glsl-parallax-occlusion-mapping",
+  "version": "1.0.0",
+  "description": "glslify module implementing parallax occlusion mapping.",
+  "main": "./pom.glsl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DOWNPOURDIGITAL/glsl-parallax-occlusion-mapping.git"
+  },
+  "keywords": [
+    "glsl",
+    "shader",
+    "webgl",
+    "stackgl",
+    "glslify",
+    "shaders",
+    "parallax",
+    "occlusion",
+	"mapping",
+	"pom",
+    "displacement"
+  ],
+  "author": "johh <code@johh.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DOWNPOURDIGITAL/glsl-parallax-occlusion-mapping/issues"
+  },
+  "homepage": "https://github.com/DOWNPOURDIGITAL/glsl-parallax-occlusion-mapping#readme"
+}
